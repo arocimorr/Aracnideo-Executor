@@ -1,2 +1,2 @@
-v=1.0.5
-link=https://github.com/arocimorr/Aracnideo-Executor/releases/download/Aracedeo/AracnideoExecutorLATEST.exe
+v=1.0.6
+link=https://github.com/arocimorr/Aracnideo-Executor/releases/download/Aracedeo/AracnideoExecutorUPDATED.exe
